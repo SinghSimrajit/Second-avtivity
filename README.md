@@ -1,1 +1,1 @@
-# this is my third activity and you can see my code in Third activity folder.
+# this is my second activity and you can see my code in second activity folder.
